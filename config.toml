@@ -1,9 +1,9 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://hugo-blog-oppoxa.netlify.app"
 # title = "Hugo Themes"
 author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+copyright = "Copyright © 2022, Oppoxa; all rights reserved."
 paginate = 3
-languageCode = "en"
+languageCode = "fr"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -12,16 +12,19 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "hugo-paper"
-title = "Paper"
+title = "Oppoxa"
+
 
 [params]
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = 'oppoxa'
+  github = 'oppoxa'
+  instagram = 'oppoxa'
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  avatar = 'hello@oppoxa.com'
+  name = 'Oppoxa'
+  bio = 'Oppo: A friend, associate or colleague.'
+
+  description = "Nous pensons que le processus d'étude est une tâche qui dure toute la vie. Le blog vise à aider les étudiants à obtenir des conseils et des exemples concrets dans différents domaines."
 
 # ------------------------------
 
